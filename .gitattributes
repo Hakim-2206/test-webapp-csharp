@@ -1,4 +1,1 @@
-*.cs linguist-language=C#
-*.csproj linguist-language=C#
-*.sln linguist-language=C#
-*.cshtml linguist-language=HTML
+*.html linguist-detectable=false
